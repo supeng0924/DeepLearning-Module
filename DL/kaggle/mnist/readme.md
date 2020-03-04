@@ -1,0 +1,3 @@
+# kaggle competition
+
+mnist dataset
